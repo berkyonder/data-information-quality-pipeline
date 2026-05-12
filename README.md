@@ -8,13 +8,6 @@ This project demonstrates a complete **Data Information & Quality (DIQ)** workfl
 ## Dataset Overview
 The original dataset contains records related to **artists and artworks** (tabular CSV format). The notebook performs exploratory analysis and applies data quality techniques to improve consistency and usability.
 
-## Why Raw Data Is Not Included
-The original CSV files are **not included in this repository** because they are unavailable for redistribution in this portfolio version.
-
-- No raw CSVs are committed.
-- No synthetic/fake replacements are provided.
-- The notebook structure and logic are preserved so the workflow can be rerun when the files are available locally.
-
 See [`data/README.md`](data/README.md) for expected local data setup.
 
 ## Data Quality Problems Addressed
